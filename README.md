@@ -32,3 +32,9 @@ Com cada disparo, a trilha sonora épica ressoa, intensificando a emoção do co
 <img width="885" alt="image" src="https://github.com/Inaciosant/jogo_bancodedadosrealcional/assets/127760321/c0a2ba1b-2762-40de-83c4-9de8f0fa9360">
 
 <img width="886" alt="image" src="https://github.com/Inaciosant/jogo_bancodedadosrealcional/assets/127760321/2df54ba1-4727-4544-a763-14b02a106e2b">
+
+
+# Link do jogo:
+
+<a href:https://escorpiongame.netlify.app>
+
